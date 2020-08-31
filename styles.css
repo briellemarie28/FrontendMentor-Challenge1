@@ -1,0 +1,13 @@
+@import url("https://fonts.google.com/specimen/Rubik");
+
+body {
+    background-color: hsl(0, 0%, 100%);
+    font-family: 'rubik', sans-serif;
+    display: flex;
+}
+.cellPhone {
+    justify-content: flex-start;
+}
+.mainInfo {
+    color:hsl(270, 7%, 64%);
+}
